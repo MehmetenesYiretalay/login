@@ -1,0 +1,22 @@
+#kare {
+    margin-top: 100px;
+        width: 200px; 
+        height: 350px; 
+        background: rgb(60, 73, 4); 
+        padding: top 1000px; ;
+        border-radius: 10px;
+        
+     }
+
+
+
+body {
+    color: black;
+    background-color: rgb(255, 0, 0);
+}
+.buton {
+    padding: 10px;
+    padding-left:20px ;
+    padding-right: 20px;
+    
+}
